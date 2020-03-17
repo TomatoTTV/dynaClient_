@@ -1,0 +1,8 @@
+version: 1.8.3
+files:
+  - url: DynaClient-Setup-1.8.3.exe
+    sha512: 4N/HhRAiIv/6DucEY5+mpWRrfaSY7tT/l2sSEbPv14POJ8FoG3csy3JegiwAs0YnOgG4sFJGkpLiALtUi97L1w==
+    size: 56558653
+path: DynaClient-Setup-1.8.3.exe
+sha512: 4N/HhRAiIv/6DucEY5+mpWRrfaSY7tT/l2sSEbPv14POJ8FoG3csy3JegiwAs0YnOgG4sFJGkpLiALtUi97L1w==
+releaseDate: '2020-03-17T23:25:23.947Z'
